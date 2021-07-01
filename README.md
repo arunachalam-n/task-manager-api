@@ -16,3 +16,4 @@
 4. Update Profile 
 5. Delete User
 6. Create, Read, Update, Delete Task related to the User
+7. Upload User Profile Picture 
